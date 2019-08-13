@@ -1,15 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
 
-body
-{
-            	background-color:#FFFEFD;
-				background-image: url(large.jpg);
-            	background-repeat: no-repeat;
-            	background-position:center;
-            	background-attachment:fixed;
-            	background-size: auto;
-	            	background-size:1290px 768px;
+body {
+  background-image: url("large.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+	
 }
 h1   {color: darkslateblue;}
 
